@@ -46,9 +46,8 @@ If you see "command not found", you need to install Claude Code first:
 **Option B: Clone with git**
 ```
 cd ~/.claude/plugins
-git clone [REPO_URL] growthscript-ops
+git clone https://github.com/taylormichellejoyce-bit/growthscript-ops.git growthscript-ops
 ```
-<!-- TODO: Replace [REPO_URL] with actual GitHub URL before publishing -->
 
 ### Step 3: Install the plugin
 
