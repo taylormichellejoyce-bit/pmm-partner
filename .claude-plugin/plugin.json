@@ -9,7 +9,8 @@
     "./skills/setup",
     "./skills/core-products",
     "./skills/releases",
-    "./skills/icp"
+    "./skills/icp",
+    "./skills/competitive"
   ],
   "agents": []
 }
