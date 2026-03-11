@@ -1,13 +1,13 @@
-# GrowthScript Ops
+# PMM Partner
 
-Operationalize GrowthScript with Claude Code - a getting-started toolkit for PMMs.
+Your product marketing partner in Claude Code - GTM documentation, releases, ICPs, and competitive intel.
 
 ## What This Is
 
 This plugin helps Product Marketing Managers (PMMs) use Claude Code to:
 - Keep product documentation current
 - Track releases and GTM activities
-- Build and maintain a GrowthScript framework
+- Build and maintain GTM documentation
 - Work directly inside Notion, Linear, and other tools
 
 ## Who This Is For
@@ -46,7 +46,7 @@ If you see "command not found", you need to install Claude Code first:
 **Option B: Clone with git**
 ```
 cd ~/.claude/plugins
-git clone https://github.com/taylormichellejoyce-bit/growthscript-ops.git growthscript-ops
+git clone https://github.com/taylormichellejoyce-bit/pmm-partner.git pmm-partner
 ```
 
 ### Step 3: Install the plugin
@@ -55,13 +55,13 @@ Open **Terminal** and run the install script.
 
 If you downloaded the ZIP to your Desktop:
 ```
-cd ~/Desktop/growthscript-ops-main
+cd ~/Desktop/pmm-partner-main
 ./install.sh
 ```
 
 If you cloned with git:
 ```
-cd ~/.claude/plugins/growthscript-ops
+cd ~/.claude/plugins/pmm-partner
 ./install.sh
 ```
 
@@ -71,7 +71,7 @@ The script will tell you if it worked!
 
 1. Open a **new** Terminal window
 2. Type `claude` and press Enter
-3. Once Claude Code starts, type: `/growthscript-ops:setup`
+3. Once Claude Code starts, type: `/pmm-partner:setup`
 
 The setup wizard will walk you through connecting your tools.
 
@@ -102,11 +102,11 @@ If the install script doesn't work, run these commands in **Terminal** (not insi
 mkdir -p ~/.claude/plugins
 
 # Navigate to where you downloaded the plugin and run:
-claude plugins marketplace add /path/to/growthscript-ops
-claude plugins install growthscript-ops@growthscript-ops
+claude plugins marketplace add /path/to/pmm-partner
+claude plugins install pmm-partner@pmm-partner
 ```
 
-Replace `/path/to/growthscript-ops` with the actual path to the folder.
+Replace `/path/to/pmm-partner` with the actual path to the folder.
 
 ---
 
@@ -114,7 +114,7 @@ Replace `/path/to/growthscript-ops` with the actual path to the folder.
 
 Once installed, you can use:
 
-- `/growthscript-ops:setup` - Guided wizard to connect Claude Code to your tools
+- `/pmm-partner:setup` - Guided wizard to connect Claude Code to your tools
 
 ---
 
@@ -122,7 +122,7 @@ Once installed, you can use:
 
 - [Start Here](guides/START_HERE.md) - What is Claude Code and why should you care?
 - [Getting Started Guide](guides/getting-started.md) - Your first steps in the terminal
-- [GrowthScript Overview](frameworks/growthscript.md) - The framework explained
+- [Framework Overview](frameworks/growthscript.md) - The framework explained
 - [GTM Functions](frameworks/gtm-functions.md) - Key PMM activities and workflows
 
 ---

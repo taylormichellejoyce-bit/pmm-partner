@@ -412,7 +412,7 @@ After any interaction:
 
 ---
 
-**Type `/growthscript-ops:competitive` anytime to:**
+**Type `/pmm-partner:competitive` anytime to:**
 - Add a new competitor
 - Build or update a battlecard
 - Analyze win/loss patterns

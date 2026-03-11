@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# GrowthScript Ops Plugin Installer
+# PMM Partner Plugin Installer
 # Run this in your terminal after downloading/cloning the plugin
 
 echo ""
 echo "========================================="
-echo "  GrowthScript Ops Plugin Installer"
+echo "  PMM Partner Plugin Installer"
 echo "========================================="
 echo ""
 
@@ -38,7 +38,7 @@ fi
 # Install the plugin
 echo ""
 echo "Step 2/2: Installing plugin..."
-claude plugins install growthscript-ops@growthscript-ops 2>&1
+claude plugins install pmm-partner@pmm-partner 2>&1
 
 if [ $? -eq 0 ]; then
     echo ""
@@ -49,7 +49,7 @@ if [ $? -eq 0 ]; then
     echo "Next steps:"
     echo "  1. Open a new terminal window"
     echo "  2. Type: claude"
-    echo "  3. Type: /growthscript-ops:setup"
+    echo "  3. Type: /pmm-partner:setup"
     echo ""
     echo "The setup wizard will walk you through"
     echo "connecting your tools (Notion, Linear, etc.)"
@@ -58,5 +58,5 @@ else
     echo ""
     echo "Something went wrong. Try these commands manually:"
     echo "  claude plugins marketplace add $SCRIPT_DIR"
-    echo "  claude plugins install growthscript-ops@growthscript-ops"
+    echo "  claude plugins install pmm-partner@pmm-partner"
 fi

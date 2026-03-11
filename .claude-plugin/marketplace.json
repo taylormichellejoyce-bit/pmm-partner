@@ -1,13 +1,13 @@
 {
-  "name": "growthscript-ops",
+  "name": "pmm-partner",
   "owner": {
     "name": "Taylor Berry"
   },
   "plugins": [
     {
-      "name": "growthscript-ops",
+      "name": "pmm-partner",
       "source": "./",
-      "description": "Operationalize GrowthScript with Claude Code - a getting-started toolkit for PMMs"
+      "description": "Your product marketing partner in Claude Code - GTM documentation, releases, ICPs, and competitive intel"
     }
   ]
 }

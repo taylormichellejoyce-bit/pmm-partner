@@ -1,7 +1,7 @@
 {
-  "name": "growthscript-ops",
+  "name": "pmm-partner",
   "version": "0.1.0",
-  "description": "Operationalize GrowthScript with Claude Code - a getting-started toolkit for PMMs",
+  "description": "Your product marketing partner in Claude Code - GTM documentation, releases, ICPs, and competitive intel",
   "author": {
     "name": "Taylor Berry"
   },

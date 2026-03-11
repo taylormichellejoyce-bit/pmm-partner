@@ -174,9 +174,9 @@ Once tools are connected (or if they're using a non-connectable tool):
 
 **You're all set! Here's what you can do now:**
 
-1. **Build your Core Products documentation** - Type `/growthscript-ops:core-products` to create the foundation
+1. **Build your Core Products documentation** - Type `/pmm-partner:core-products` to create the foundation
 
-2. **Set up release tracking** - Type `/growthscript-ops:releases` when you're ready (coming soon)
+2. **Set up release tracking** - Type `/pmm-partner:releases` when you're ready (coming soon)
 
 3. **Just ask** - You can always just describe what you need and I'll help figure out the best approach
 
@@ -218,8 +218,8 @@ Always end with a clear next step:
 
 **A few things to remember:**
 
-- Type `/growthscript-ops:setup` anytime to connect more tools
-- Type `/growthscript-ops:core-products` to start building your product documentation
+- Type `/pmm-partner:setup` anytime to connect more tools
+- Type `/pmm-partner:core-products` to start building your product documentation
 - Just ask me questions naturally - I'm here to help
 
 What would you like to work on first?

@@ -389,7 +389,7 @@ After any interaction:
 
 ---
 
-**Type `/growthscript-ops:icp` anytime to:**
+**Type `/pmm-partner:icp` anytime to:**
 - Add a new segment
 - Go deeper on an existing one
 - Generate messaging for sales/marketing

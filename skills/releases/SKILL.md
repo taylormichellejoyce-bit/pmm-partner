@@ -262,7 +262,7 @@ After any interaction, remind them:
 
 ---
 
-**Quick reminder:** Type `/growthscript-ops:releases` anytime to:
+**Quick reminder:** Type `/pmm-partner:releases` anytime to:
 - Add a new release
 - Update something that's changed
 - Generate an enablement checklist

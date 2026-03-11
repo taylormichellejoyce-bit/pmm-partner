@@ -45,7 +45,7 @@ Wait for their answers before continuing.
 
 Based on their documentation tool:
 
-**If Notion:** Check if connected (look for `mcp__plugin_Notion_notion__` tools). If connected, you can create the database directly. If not, suggest `/growthscript-ops:setup` first.
+**If Notion:** Check if connected (look for `mcp__plugin_Notion_notion__` tools). If connected, you can create the database directly. If not, suggest `/pmm-partner:setup` first.
 
 **If Confluence, Google Docs, or other connected tool:** Check for relevant MCP tools and use them if available.
 
@@ -168,7 +168,7 @@ If connected, create the entry. If not, tell them exactly what to enter.
 
 **Pro tip:** When releases ship that change how products work, update this documentation. It's the source of truth.
 
-Type `/growthscript-ops:releases` when you're ready to start tracking what's shipping next.
+Type `/pmm-partner:releases` when you're ready to start tracking what's shipping next.
 
 ---
 
