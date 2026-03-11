@@ -71,3 +71,25 @@ Say something like: "It sounds like you might want to connect your tools first. 
 **Available skills:**
 - `/growthscript-ops:setup` - Guided wizard for connecting tools
 - `/growthscript-ops:core-products` - Create your Core Products documentation
+- `/growthscript-ops:releases` - Track upcoming releases and GTM readiness
+
+## Individual Customization
+
+**Every PMM and company is different.** The database structures and workflows in these skills are starting points, not rigid templates.
+
+**Be flexible:**
+- If they want different fields, add them
+- If they want different statuses, use theirs
+- If their process doesn't match the default, adapt
+- If they have existing structures, work with those instead of creating new ones
+
+**Remember their preferences:**
+When a user customizes something (changes fields, renames statuses, uses a different workflow), save this to memory so you remember it next time. Use feedback memories for things like:
+- "User prefers X field instead of Y"
+- "Their release statuses are: Draft, Review, Approved, Live"
+- "They track releases in a spreadsheet, not a database"
+
+This way, the next time they use a skill, you already know their setup and preferences.
+
+**Ask, don't assume:**
+If you're unsure whether to use the default structure or their custom one, ask: "Do you want to use the standard setup, or do you have an existing structure I should work with?"
