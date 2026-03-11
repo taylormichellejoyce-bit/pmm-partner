@@ -6,7 +6,8 @@
     "name": "Taylor Berry"
   },
   "skills": [
-    "./skills/setup"
+    "./skills/setup",
+    "./skills/core-products"
   ],
   "agents": []
 }
