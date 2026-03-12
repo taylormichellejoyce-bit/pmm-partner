@@ -143,6 +143,12 @@ Before using PMM Partner, read the [Security & AI Usage Guidelines](SECURITY.md)
 
 ---
 
+## Acknowledgments
+
+This plugin was inspired by [PM Thought Partner](https://github.com/breethomas/pm-thought-partner) created by **Bree Thomas**. Her work showed what's possible when you bring product frameworks into Claude Code, and PMM Partner builds on that vision for the product marketing side.
+
+---
+
 ## Questions?
 
 This toolkit was created by Taylor Berry. Reach out at taylormichellejoyce@gmail.com
