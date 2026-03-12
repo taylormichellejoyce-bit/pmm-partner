@@ -123,6 +123,16 @@ Once installed, you can use:
 
 ---
 
+## Security
+
+Before using PMM Partner, read the [Security & AI Usage Guidelines](SECURITY.md). Key points:
+- Never put API keys, passwords, or customer data in AI prompts
+- MCP connections grant real access - understand what you're connecting
+- Always review before confirming destructive actions
+- When in doubt, ask your Security/IT team
+
+---
+
 ## Learn More
 
 - [Start Here](guides/START_HERE.md) - What is Claude Code and why should you care?
