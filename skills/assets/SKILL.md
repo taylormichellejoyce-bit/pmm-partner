@@ -498,6 +498,52 @@ Generate:
 
 ---
 
+## Native Tool Integration (Google Slides, PowerPoint)
+
+**If you have the right MCP connections, I can create assets directly in your native tools.**
+
+### Google Workspace
+
+With a Google Workspace MCP connected, I can:
+- Create presentations directly in **Google Slides**
+- Build documents in **Google Docs**
+- Create spreadsheets in **Google Sheets**
+- Save everything to your **Google Drive**
+
+**Available MCP servers:**
+- [google-workspace-mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Comprehensive (100+ tools)
+- [google-slides-mcp](https://github.com/matteoantoci/google-slides-mcp) - Dedicated Slides server
+- [google-drive-mcp](https://github.com/piotr-agier/google-drive-mcp) - Drive, Docs, Sheets, Slides
+
+### Microsoft 365
+
+With the M365 connector, I can:
+- Build presentations in **PowerPoint**
+- Work with **Excel** spreadsheets
+- Access your **OneDrive** files
+
+**Available integrations:**
+- [M365 Connector for Claude](https://marketplace.microsoft.com/en-us/product/saas/anthropic.microsoft-365-connector-for-claude) - Official Anthropic connector
+- [Claude for PowerPoint](https://support.claude.com/en/articles/13521390-use-claude-for-powerpoint) - Add-in for Mac/Windows
+
+### How to Use
+
+If you have one of these connected, just tell me:
+
+---
+
+**"Create this as a Google Slides presentation"** or **"Build this in PowerPoint"**
+
+I'll create it directly in your workspace - no export or deploy step needed.
+
+---
+
+### Don't Have These Connected?
+
+No problem - use the code-based workflow below to create HTML assets you can deploy or export as PDF.
+
+---
+
 ## Code-Based Assets (No Design Team Needed)
 
 **This workflow is for PMMs who don't have design resources** or want to create polished assets quickly without waiting on creative teams.
