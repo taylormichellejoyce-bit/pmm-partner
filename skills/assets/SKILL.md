@@ -15,22 +15,52 @@ When a PMM has already documented their products, ICPs, competitive positioning,
 
 ## Before Creating Any Asset
 
-**Check for existing context in memory and ask about gaps:**
+**Check for brand context first.** Assets without brand guidelines come out generic.
 
-1. **Brand voice** - Check for `brand-voice-guidelines` in memory
-2. **Core products** - Ask which product/feature this is for
-3. **ICP** - Ask which audience this targets
-4. **Competitive** - Ask if this needs competitive positioning
+### Step 1: Check for Brand Setup
 
-If context is missing, you can still create the asset - just note what would make it stronger:
+Check memory for `brand-voice-guidelines`. If found, great - you have their voice, colors, fonts, and style.
+
+If NOT found, ask:
 
 ---
 
-**I can create this now, but it'll be more on-brand if you've set up:**
-- `/pmm-partner:brand` - Your voice and messaging guidelines
-- `/pmm-partner:icp` - Who this is targeting
+**Before we create this, let's make sure it looks and sounds like your brand.**
 
-Want to set those up first, or should I proceed with what we have?
+**Have you set up your brand guidelines?** If not, run `/pmm-partner:brand` first - it only takes a few minutes and makes everything we create more polished.
+
+**If you want to skip that, I still need some basics:**
+- **Brand colors** - Primary and secondary colors (hex codes if you have them)
+- **Fonts** - What fonts do you use? (Or should I use something clean and generic?)
+- **Logo** - Do you have a logo URL or file I can reference?
+- **Tone** - How do you want this to sound? (Professional, friendly, bold, etc.)
+
+Even just colors and tone is better than nothing.
+
+---
+
+### Step 2: Check for Existing Templates
+
+**Don't assume the default structure works for them.** They may have existing templates they need to match.
+
+---
+
+**Do you have an existing template or structure I should follow?**
+
+For example:
+- A slide deck template your company uses
+- A one-pager format that's already approved
+- Brand guidelines docs with layout requirements
+
+If you have something, share it (file, link, or describe the structure) and I'll match it. If not, I'll use a clean default structure that you can adjust.
+
+---
+
+### Step 3: Gather Other Context
+
+1. **Core products** - Ask which product/feature this is for
+2. **ICP** - Ask which audience this targets
+3. **Competitive** - Ask if this needs competitive positioning
 
 ---
 
@@ -69,7 +99,9 @@ Want to set those up first, or should I proceed with what we have?
 
 ### One-Pager Structure
 
-Generate with this structure (adapt based on their answers):
+**If they have a template:** Match their structure exactly.
+
+**If not, use this default** (but offer to adjust):
 
 ---
 
@@ -136,7 +168,9 @@ What needs adjusting?
 
 ### Deck Structure Options
 
-Based on their purpose, suggest a structure:
+**If they have a template:** Ask them to share it or describe the slide structure, then match it.
+
+**If not, suggest a structure based on their purpose:**
 
 **For Sales Pitch (8-10 slides):**
 1. Title / Hook
