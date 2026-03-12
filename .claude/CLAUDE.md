@@ -75,6 +75,7 @@ Say something like: "It sounds like you might want to connect your tools first. 
 - `/pmm-partner:releases` - Track upcoming releases and GTM readiness
 - `/pmm-partner:icp` - Build ICP and persona documentation
 - `/pmm-partner:competitive` - Track competitors and build battlecards
+- `/pmm-partner:assets` - Create one-pagers, decks, talk tracks, emails
 
 ## Individual Customization
 

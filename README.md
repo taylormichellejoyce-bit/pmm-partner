@@ -120,6 +120,7 @@ Once installed, you can use:
 - `/pmm-partner:releases` - Track upcoming releases and GTM readiness
 - `/pmm-partner:icp` - Build ICP and persona documentation
 - `/pmm-partner:competitive` - Track competitors and build battlecards
+- `/pmm-partner:assets` - Create one-pagers, slide decks, talk tracks, and email content
 
 ---
 

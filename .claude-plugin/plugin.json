@@ -11,7 +11,8 @@
     "./skills/core-products",
     "./skills/releases",
     "./skills/icp",
-    "./skills/competitive"
+    "./skills/competitive",
+    "./skills/assets"
   ],
   "agents": []
 }
